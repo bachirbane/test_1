@@ -28,12 +28,14 @@
     padding: 20px;
    margin-bottom: 0;
 }
+
 .section-img{
     padding: 80px;
     background-color: #034f89
     
     
 }
+
 .img{
    
     margin-left: 50%;
@@ -41,6 +43,7 @@
     
    
 }
+
 .form {
     width: 350px;
     background-color: beige;
@@ -49,6 +52,7 @@
    margin-left: 50px;
    padding: 80px;
 }
+
 .bien{
     margin-top: -15%;
     color: #034f89;
@@ -56,6 +60,7 @@
     text-align: center;
    
 }
+
 .cont{
     color: #0a0b0c;
     font-size: 20px;
@@ -63,6 +68,7 @@
     margin-top: -15%;
    
 }
+
  .email , .pass{
     
     width: 100%;
